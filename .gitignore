@@ -66,4 +66,6 @@ scratch/
 # Misc
 .DS_Store
 *.idea/
-.gitignore
+*.gitignore
+Segmenting Toronto - Geotagged.ipynb
+Segmenting Toronto.ipynb
